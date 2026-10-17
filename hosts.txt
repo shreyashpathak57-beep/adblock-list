@@ -7,3 +7,6 @@ moviesmod.ai.in
 episodes.modpro.blog
 en.thenaukriadda.in
 driveseed.org
+cnd.video-gen.xyz
+video-seed.dev
+video-downloads.googleusercontent.com
