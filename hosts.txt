@@ -14,3 +14,8 @@ new5.gdflix.io
 spremiums.gt.tc
 www.dropbox.com
 dropbox.com
+vegamovies
+bollyflix
+gdflix
+fastdlserver
+dropbox
