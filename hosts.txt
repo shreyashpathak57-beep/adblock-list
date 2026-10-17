@@ -19,3 +19,5 @@ bollyflix
 gdflix
 fastdlserver
 dropbox
+fast-dl
+fast
