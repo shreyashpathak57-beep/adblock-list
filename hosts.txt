@@ -21,3 +21,7 @@ fastdlserver
 dropbox
 fast-dl
 fast
+video-downloads.googleusercontent.com
+googleusercontent.com
+googleusercontent
+video-downloads
