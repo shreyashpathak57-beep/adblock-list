@@ -36,3 +36,5 @@ videocdn
 cdn
 seed
 video-seed
+pub.dev
+pub
