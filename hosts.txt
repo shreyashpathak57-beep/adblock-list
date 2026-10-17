@@ -38,3 +38,5 @@ seed
 video-seed
 pub.dev
 pub
+instant
+video-gen
