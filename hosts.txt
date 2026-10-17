@@ -4,3 +4,4 @@ fast-dl.one
 m.youtube.com
 youtube.com
 nexdrive.com
+amazon.in
