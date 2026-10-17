@@ -12,3 +12,5 @@ linksmod.top
 dl.fastdlserver.site
 new5.gdflix.io
 spremiums.gt.tc
+www.dropbox.com
+dropbox.com
