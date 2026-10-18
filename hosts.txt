@@ -49,3 +49,6 @@ links
 jpg
 png
 katworld
+katmoviehd
+kmhd
+katdrive
