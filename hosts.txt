@@ -54,3 +54,4 @@ kmhd
 katdrive
 drive
 m.media
+amazon
