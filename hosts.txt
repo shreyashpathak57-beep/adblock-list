@@ -40,6 +40,5 @@ pub.dev
 pub
 instant
 video-gen
-youtube
 fxlinks
 rest
