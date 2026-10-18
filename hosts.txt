@@ -33,7 +33,6 @@ worker
 workers
 tedisex
 videocdn
-cdn
 seed
 video-seed
 pub.dev
