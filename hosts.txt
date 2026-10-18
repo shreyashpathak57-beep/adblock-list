@@ -46,14 +46,11 @@ imdb.com
 imdb
 modpro
 links
-jpg
-png
 katworld
 katmoviehd
 kmhd
 katdrive
 drive
-m.media
 image
 tmdb
-uk
+
