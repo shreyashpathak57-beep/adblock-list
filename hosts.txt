@@ -54,3 +54,5 @@ image
 tmdb
 bflixcnd
 github
+youtube
+facebook
