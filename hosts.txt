@@ -65,3 +65,4 @@ catimages
 media
 pikahd
 xprimehub
+imgbb
