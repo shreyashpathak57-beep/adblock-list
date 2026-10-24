@@ -66,3 +66,4 @@ media
 pikahd
 xprimehub
 imgbb
+quick
