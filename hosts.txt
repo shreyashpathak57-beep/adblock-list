@@ -68,3 +68,4 @@ xprimehub
 imgbb
 quick
 dotmovie
+instagram
