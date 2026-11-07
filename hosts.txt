@@ -69,3 +69,4 @@ imgbb
 quick
 dotmovie
 instagram
+mediafire
