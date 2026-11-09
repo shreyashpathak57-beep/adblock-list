@@ -54,8 +54,6 @@ image
 tmdb
 bflixcnd
 github
-youtube
-facebook
 means
 uhdmovies
 ibb
@@ -71,3 +69,4 @@ dotmovie
 instagram
 mediafire
 viralgf14
+viralgf
